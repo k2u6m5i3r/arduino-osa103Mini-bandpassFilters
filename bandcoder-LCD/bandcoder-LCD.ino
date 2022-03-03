@@ -203,13 +203,6 @@ inline void show_tx(void){
 void showLCDBaner(){
   lcd.clear();
   lcd.setCursor(0, 0);
-  lcd.print("USDX Si5351-ph");
-  lcd.setCursor(0, 1);
-  lcd.print("1-30MHz");
-  delay(500);
-  lcd.setCursor(0, 0);
-  lcd.print("              ");
-  lcd.setCursor(0, 0);
-  lcd.print("UT3MK pcb");
+  lcd.print("                ");
   delay(500);
 }
