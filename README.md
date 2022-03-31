@@ -1,5 +1,5 @@
 <!-- # arduino-osa103Mini-bandpassFilters -->
-<h1>OSA103 Mini, Arduino, полосовые фильтры</h1>
+<h1>OSA103 Mini, Arduino, полосовые фильтры - В РАБОТЕ(Черновик)</h1>
 
 <h3>Источники</h3>
     <ul>
